@@ -7,5 +7,5 @@ function nestedTarget() {
 }
 
 function index(){
-  
+  return document.querySelector('#')
 }
