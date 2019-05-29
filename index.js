@@ -7,5 +7,5 @@ function nestedTarget() {
 }
 
 function index(){
-  return document.querySelector('#grand-node div div ')
+  return document.querySelector('#grand-node div div div div')
 }
